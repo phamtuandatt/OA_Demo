@@ -1,0 +1,17 @@
+D:\Demo\Onion_Architecture\OA.Service\bin\Debug\net6.0\OA.Service.deps.json
+D:\Demo\Onion_Architecture\OA.Service\bin\Debug\net6.0\OA.Service.dll
+D:\Demo\Onion_Architecture\OA.Service\bin\Debug\net6.0\OA.Service.pdb
+D:\Demo\Onion_Architecture\OA.Service\bin\Debug\net6.0\OA.Repo.dll
+D:\Demo\Onion_Architecture\OA.Service\bin\Debug\net6.0\OA.Repo.pdb
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\OA.Service.csproj.AssemblyReference.cache
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\OA.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\OA.Service.AssemblyInfoInputs.cache
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\OA.Service.AssemblyInfo.cs
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\OA.Service.csproj.CoreCompileInputs.cache
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\OA.Service.csproj.CopyComplete
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\OA.Service.dll
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\refint\OA.Service.dll
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\OA.Service.pdb
+D:\Demo\Onion_Architecture\OA.Service\obj\Debug\net6.0\ref\OA.Service.dll
+D:\Demo\Onion_Architecture\OA.Service\bin\Debug\net6.0\OB.Dataa.dll
+D:\Demo\Onion_Architecture\OA.Service\bin\Debug\net6.0\OB.Dataa.pdb

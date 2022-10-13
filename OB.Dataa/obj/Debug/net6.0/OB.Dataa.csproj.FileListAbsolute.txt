@@ -1,0 +1,12 @@
+D:\Demo\Onion_Architecture\OB.Dataa\bin\Debug\net6.0\OB.Dataa.deps.json
+D:\Demo\Onion_Architecture\OB.Dataa\bin\Debug\net6.0\OB.Dataa.dll
+D:\Demo\Onion_Architecture\OB.Dataa\bin\Debug\net6.0\OB.Dataa.pdb
+D:\Demo\Onion_Architecture\OB.Dataa\obj\Debug\net6.0\OB.Dataa.csproj.AssemblyReference.cache
+D:\Demo\Onion_Architecture\OB.Dataa\obj\Debug\net6.0\OB.Dataa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Onion_Architecture\OB.Dataa\obj\Debug\net6.0\OB.Dataa.AssemblyInfoInputs.cache
+D:\Demo\Onion_Architecture\OB.Dataa\obj\Debug\net6.0\OB.Dataa.AssemblyInfo.cs
+D:\Demo\Onion_Architecture\OB.Dataa\obj\Debug\net6.0\OB.Dataa.csproj.CoreCompileInputs.cache
+D:\Demo\Onion_Architecture\OB.Dataa\obj\Debug\net6.0\OB.Dataa.dll
+D:\Demo\Onion_Architecture\OB.Dataa\obj\Debug\net6.0\refint\OB.Dataa.dll
+D:\Demo\Onion_Architecture\OB.Dataa\obj\Debug\net6.0\OB.Dataa.pdb
+D:\Demo\Onion_Architecture\OB.Dataa\obj\Debug\net6.0\ref\OB.Dataa.dll
