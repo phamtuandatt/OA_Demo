@@ -17,14 +17,9 @@ namespace OA.Service
             this.userProfileRepository = userProfile;
         }
 
-        public UserProfile GetUserProfile(int id)
-        {
-            return userProfileRepository.Get(id);
-            throw new NotImplementedException();
-        }
-
         public UserProfile GetUserProfile(long id)
         {
+            return userProfileRepository.Get(id);
             throw new NotImplementedException();
         }
     }

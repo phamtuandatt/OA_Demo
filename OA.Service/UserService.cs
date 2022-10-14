@@ -33,31 +33,26 @@ namespace OA.Service
             userRepository.Remove(user);
             userRepository.SaveChanges();
 
-            throw new NotImplementedException();
         }
 
         public User GetUser(long id)
         {
             return userRepository.Get(id);
-            throw new NotImplementedException();
         }
 
         public IEnumerable<User> GetUsers()
         {
             return userRepository.GetAll();
-            throw new NotImplementedException();
         }
 
         public void InsertUser(User user)
         {
             userRepository.Insert(user);
-            throw new NotImplementedException();
         }
 
         public void UpdateUser(User user)
         {
             userRepository.Update(user);
-            throw new NotImplementedException();
         }
     }
 }

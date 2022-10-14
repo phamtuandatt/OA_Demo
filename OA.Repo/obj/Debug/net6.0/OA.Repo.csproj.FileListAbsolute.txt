@@ -1,6 +1,9 @@
 D:\Demo\Onion_Architecture\OA.Repo\bin\Debug\net6.0\OA.Repo.deps.json
+D:\Demo\Onion_Architecture\OA.Repo\bin\Debug\net6.0\OA.Repo.runtimeconfig.json
 D:\Demo\Onion_Architecture\OA.Repo\bin\Debug\net6.0\OA.Repo.dll
 D:\Demo\Onion_Architecture\OA.Repo\bin\Debug\net6.0\OA.Repo.pdb
+D:\Demo\Onion_Architecture\OA.Repo\bin\Debug\net6.0\OB.Dataa.dll
+D:\Demo\Onion_Architecture\OA.Repo\bin\Debug\net6.0\OB.Dataa.pdb
 D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\OA.Repo.csproj.AssemblyReference.cache
 D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\OA.Repo.GeneratedMSBuildEditorConfig.editorconfig
 D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\OA.Repo.AssemblyInfoInputs.cache
@@ -10,8 +13,5 @@ D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\OA.Repo.csproj.CopyComplete
 D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\OA.Repo.dll
 D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\refint\OA.Repo.dll
 D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\OA.Repo.pdb
-D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\ref\OA.Repo.dll
-D:\Demo\Onion_Architecture\OA.Repo\bin\Debug\net6.0\OB.Dataa.dll
-D:\Demo\Onion_Architecture\OA.Repo\bin\Debug\net6.0\OB.Dataa.pdb
-D:\Demo\Onion_Architecture\OA.Repo\bin\Debug\net6.0\OA.Repo.runtimeconfig.json
 D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\OA.Repo.genruntimeconfig.cache
+D:\Demo\Onion_Architecture\OA.Repo\obj\Debug\net6.0\ref\OA.Repo.dll

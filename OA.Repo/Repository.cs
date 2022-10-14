@@ -25,46 +25,40 @@ namespace OA.Repo
         {   
             entities.Remove(entity);
             _context.SaveChanges();
-            throw new NotImplementedException();
         }
 
         public T Get(long id)
         {
             // Get Object
             return entities.Find(id);
-            throw new NotImplementedException();
         }
 
         public IEnumerable<T> GetAll()
         {
             // Return List T -> Ex: T : Employee => IEnumertable<Employee>
             return entities.AsEnumerable();
-            throw new NotImplementedException();
         }
 
         public void Insert(T entity)
         {
             entities.Add(entity);
             _context.SaveChanges();
-            throw new NotImplementedException();
         }
 
         public void Remove(T entity)
         {
             entities.Remove(entity);
-            throw new NotImplementedException();
         }
 
         public void SaveChanges()
         {
             _context.SaveChanges();
-            throw new NotImplementedException();
         }
 
         public void Update(T entity)
         {
             _context.Update(entity);
-            throw new NotImplementedException();
+            _context.SaveChanges();
         }
     }
 }
